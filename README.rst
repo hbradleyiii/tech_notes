@@ -27,6 +27,7 @@ Log file that has gotten too large:
     ...
 
     $ # Delete all but most recent lines
+    $ # !! Caution: permanently deletes data !!
     $ sed -i 1,7029000d error.log
 
 
