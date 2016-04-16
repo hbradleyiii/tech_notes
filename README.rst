@@ -11,6 +11,24 @@ helpful commands and tricks for using the terminal more effectively.
 Terminal Tricks
 ===============
 
+Working with Log Files
+----------------------
+
+Log file that has gotten too large:
+
+.. code:: bash
+
+    $ # How many lines?
+    $ wc -l error.log
+    7031689 error.log
+
+    $ # View the most recent 2000 lines
+    $ tail -n 2000 error.log | less
+    ...
+
+    $ # Delete all but most recent lines
+    $ sed -i 1,7029000d error.log
+
 
 ----
 
