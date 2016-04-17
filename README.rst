@@ -31,6 +31,19 @@ Log file that has gotten too large:
     $ sed -i 1,7029000d error.log
 
 
+Security
+========
+
+Finding Malicious Code
+----------------------
+
+Often I've found that malicious shell code has really long lines. Usually, it is easier to sort through a relatively few number of legitimate long lines to find malicious code.
+
+.. code:: bash
+
+    $
+
+
 ----
 
 .. image:: https://i.creativecommons.org/l/by/4.0/88x31.png
