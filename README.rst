@@ -41,7 +41,14 @@ Often I've found that malicious shell code has really long lines. Usually, it is
 
 .. code:: bash
 
-    $
+    $ find ./ -type f -not -name '*.js' \
+      -not -name '*.jpg' \
+      -not -name '*.png' \
+      -not -name '*.css' \
+      -not -name '*.gif' \
+      -not -name '*.svg' \
+      -not -name '*.pdf' \
+      -exec grep -En '.{800}' {} + | less
 
 
 ----
