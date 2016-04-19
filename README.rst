@@ -1,11 +1,6 @@
 Terminal Tricks
 ###############
-helpful commands and tricks for using the terminal more effectively.
-====================================================================
-
-.. image:: https://i.creativecommons.org/l/by/4.0/88x31.png
-    :target: http://creativecommons.org/licenses/by/4.0/
-
+**Helpful commands and tricks for using the terminal more effectively.**
 ----
 
 Terminal Tricks
@@ -53,10 +48,11 @@ Often I've found that malicious shell code has really long lines. Usually, it is
 
 ----
 
+This work is licensed under a `Creative Commons Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0>`_.
+
 .. image:: https://i.creativecommons.org/l/by/4.0/88x31.png
     :target: http://creativecommons.org/licenses/by/4.0/
 
-This work is licensed under a `Creative Commons Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0>`.
 Copyright (c) 2016 Harold Bradley III
 
 ----
