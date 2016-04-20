@@ -1,14 +1,9 @@
-Terminal Tricks
-###############
+Git Tips and Tricks
+###################
 
-*Helpful commands and tricks for using the terminal more effectively.*
+*Helpful commands and tricks for using git.*
 ----
 
-Contents
-========
-
-- `Server Admin Tricks and Tips <https://github.com/hbradleyiii/terminal_tricks/blob/master/admin.rst>`_.
-- `Git Tricks and Tips <https://github.com/hbradleyiii/terminal_tricks/blob/master/git.rst>`_.
 
 ----
 
@@ -22,3 +17,4 @@ Copyright (c) 2016 Harold Bradley III
 ----
 
 *Soli Deo gloria.*
+
