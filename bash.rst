@@ -13,15 +13,16 @@ Refering to Previous Commands
 
 .. code:: bash
 
-    $ # Refer to the previous command
+      # Refer to the previous command
     $ !!
-    $ # -or-
+      # -or-
     $ !-1
 
-    $ # History with Substitution:
+      # History with Substitution:
     $ echo 'hi'
     hi
-    $ !!:s/hi/hello/ # Prints 'hello
+      # Replaces 'hi' with 'hello'
+    $ !!:s/hi/hello/
     hello
 
 
