@@ -1,15 +1,30 @@
-Terminal Tricks
-###############
+Bash Terminal Tips and Tricks
+#############################
 
 *Helpful commands and tricks for using the terminal more effectively.*
 ----
 
-Contents
-========
+History Expansion
+=================
 
-- `Server Admin Tricks and Tips <https://github.com/hbradleyiii/terminal_tricks/blob/master/admin.rst>`_.
-- `Bash Terminal Tricks and Tips <https://github.com/hbradleyiii/terminal_tricks/blob/master/bash.rst>`_.
-- `Git Tricks and Tips <https://github.com/hbradleyiii/terminal_tricks/blob/master/git.rst>`_.
+
+Refering to Previous Commands
+-----------------------------
+
+.. code:: bash
+
+    $ # Refer to the previous command
+    $ !!
+    $ # -or-
+    $ !-1
+
+    $ # History with Substitution:
+    $ echo 'hi'
+    hi
+    $ !!:s/hi/hello/ # Prints 'hello
+    hello
+
+
 
 ----
 
