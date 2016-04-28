@@ -18,6 +18,16 @@ Refering to Previous Commands
       # -or-
     $ !-1
 
+      # Refer to a command 'n' lines back
+    $ !-n  # Replace 'n' with a number
+    $ !-3
+
+      # Refer to a previous command starting with 'string'
+    $ !string
+
+      # Refer to a previous command containing 'string'
+    $ !?string
+
       # History with Substitution:
     $ echo 'hi'
     hi
@@ -25,6 +35,8 @@ Refering to Previous Commands
     $ !!:s/hi/hello/
     hello
 
+      # Refer to the entire line typed so far:
+    $ !#
 
 
 ----
