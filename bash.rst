@@ -43,6 +43,13 @@ Refering to Previous Commands or Arguments
       # -or-
     $ !!:$
 
+Resources
+===============
+
+    - http://www.ukuug.org/events/linux2003/papers/bash_tips/
+    - http://www.gnu.org/software/bash/manual/html_node/Word-Designators.html#Word-Designators
+
+
 ----
 
 This work is licensed under a `Creative Commons Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0>`_.
