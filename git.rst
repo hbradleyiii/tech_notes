@@ -2,8 +2,6 @@ Git Tips and Tricks
 ###################
 
 *Helpful commands and tricks for using git.*
-----
-
 
 ----
 
@@ -17,4 +15,3 @@ Copyright (c) 2016 Harold Bradley III
 ----
 
 *Soli Deo gloria.*
-

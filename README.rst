@@ -2,7 +2,6 @@ Terminal Tricks
 ###############
 
 *Helpful commands and tricks for using the terminal more effectively.*
-----
 
 Contents
 ========

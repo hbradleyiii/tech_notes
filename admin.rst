@@ -2,7 +2,6 @@ Server Admin Tricks and Tips
 ############################
 
 *Helpful commands and tricks for using the terminal more effectively.*
-----
 
 Terminal Tricks
 ===============
