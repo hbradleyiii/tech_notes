@@ -2,14 +2,13 @@ Bash Terminal Tips and Tricks
 #############################
 
 *Helpful commands and tricks for using the terminal more effectively.*
-----
 
 History Expansion
 =================
 
 
-Refering to Previous Commands
------------------------------
+Refering to Previous Commands or Arguments
+------------------------------------------
 
 .. code:: bash
 
