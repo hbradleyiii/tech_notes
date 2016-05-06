@@ -43,6 +43,20 @@ Refering to Previous Commands or Arguments
       # -or-
     $ !!:$
 
+
+.. code:: bash
+
+      # Empty a file (creates it if it doesn't exist)
+    $ > file.txt
+
+    $ cp /path/to/file{,_copy}
+
+    $ mv /path/to/file{,_old}
+
+    $ mv /path/{1,2}/file
+
+    $ mv /path/{old/path,new/longer/path/}/file
+
 Resources
 ===============
 
