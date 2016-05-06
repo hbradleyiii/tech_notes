@@ -1,14 +1,18 @@
-Terminal Tricks
-###############
+Tech Notes
+##########
 
-*Helpful commands and tricks for using the terminal more effectively.*
+*Helpful notes and examples on a various range of tech topics.*
 
 Contents
 ========
 
-- `Server Admin Tricks and Tips <https://github.com/hbradleyiii/terminal_tricks/blob/master/admin.rst>`_.
-- `Bash Terminal Tricks and Tips <https://github.com/hbradleyiii/terminal_tricks/blob/master/bash.rst>`_.
-- `Git Tricks and Tips <https://github.com/hbradleyiii/terminal_tricks/blob/master/git.rst>`_.
+
+Terminal
+--------
+
+- `Server Admin Tricks and Tips <https://github.com/hbradleyiii/tech_notes/blob/master/terminal/admin.rst>`_.
+- `Bash Terminal Tricks and Tips <https://github.com/hbradleyiii/tech_notes/blob/master/terminal/bash.rst>`_.
+- `Git Tricks and Tips <https://github.com/hbradleyiii/tech_notes/blob/master/terminal/git.rst>`_.
 
 ----
 

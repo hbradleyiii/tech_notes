@@ -43,6 +43,8 @@ Refering to Previous Commands or Arguments
       # -or-
     $ !!:$
 
+    http://www.gnu.org/software/bash/manual/html_node/Word-Designators.html#Word-Designators
+
 
 .. code:: bash
 
@@ -56,6 +58,10 @@ Refering to Previous Commands or Arguments
     $ mv /path/{1,2}/file
 
     $ mv /path/{old/path,new/longer/path/}/file
+
+
+Power User Tips
+===============
 
 Resources
 ===============
