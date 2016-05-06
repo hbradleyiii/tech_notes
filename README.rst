@@ -3,6 +3,8 @@ Tech Notes
 
 *Helpful notes and examples on a various range of tech topics.*
 
+|
+
 Contents
 ========
 
@@ -13,6 +15,10 @@ Terminal
 - `Server Admin Tricks and Tips <https://github.com/hbradleyiii/tech_notes/blob/master/terminal/admin.rst>`_.
 - `Bash Terminal Tricks and Tips <https://github.com/hbradleyiii/tech_notes/blob/master/terminal/bash.rst>`_.
 - `Git Tricks and Tips <https://github.com/hbradleyiii/tech_notes/blob/master/terminal/git.rst>`_.
+
+|
+|
+|
 
 ----
 
