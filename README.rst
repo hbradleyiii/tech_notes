@@ -15,6 +15,7 @@ Terminal
 - `Server Admin Tricks and Tips <https://github.com/hbradleyiii/tech_notes/blob/master/terminal/admin.rst>`_.
 - `Bash Terminal Tricks and Tips <https://github.com/hbradleyiii/tech_notes/blob/master/terminal/bash.rst>`_.
 - `Git Tricks and Tips <https://github.com/hbradleyiii/tech_notes/blob/master/terminal/git.rst>`_.
+- `SSH Tricks and Tips <https://github.com/hbradleyiii/tech_notes/blob/master/terminal/ssh.rst>`_.
 
 |
 |
