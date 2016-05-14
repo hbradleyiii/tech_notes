@@ -59,6 +59,9 @@ Refering to Previous Commands or Arguments
 
     $ mv /path/{old/path,new/longer/path/}/file
 
+      # Move a number of files (folders), but with just the filename
+    $ for i in ./* ; do mv $i /another/location/${##*/} ; done
+
 
 Power User Tips
 ===============
