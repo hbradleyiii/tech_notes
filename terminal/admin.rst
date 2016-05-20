@@ -35,14 +35,22 @@ Often I've found that malicious shell code has really long lines. Usually, it is
 
 .. code:: bash
 
-    $ find ./ -type f -not -name '*.js' \
-      -not -name '*.jpg' \
-      -not -name '*.png' \
-      -not -name '*.css' \
-      -not -name '*.gif' \
-      -not -name '*.svg' \
-      -not -name '*.pdf' \
+    $ find ./ -type f -iname '*.php' \
       -exec grep -En '.{800}' {} + | less
+
+    $ find ./ -type f \
+      -wholename '.*\/images\/*.php' \
+      -o -wholename '.*\/css\/*.php' \
+      -o -wholename '.*\/img\/*.php' \
+      -o -wholename '.*\/languages\/*.php' \
+      -o -wholename '.*\/js\/*.php'
+
+    $ find ./ -type f -iname '*.php'
+      -exec grep -Enl '.*eval\(.*' {} + | less
+
+    $ find ./ -type f -iname '*.php'
+      -exec grep -En '.*\$GLOBALS.*\$GLOBALS.*' {} + | less
+
 
 
 
