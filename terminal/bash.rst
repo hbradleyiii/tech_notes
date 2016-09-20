@@ -38,10 +38,25 @@ Refering to Previous Commands or Arguments
     $ !#
 
 
+      # Refer to (all) the arguments of the preceding command
+    $ !^
+
+      # Refer to the first argument of the preceding command
+    $ !^
+
       # Refer to the last argument of the preceding command
     $ !$
       # -or-
     $ !!:$
+
+      # Refer to the second argument of the preceding command
+    $ !:2
+
+      # Refer to the second to the third argument of the preceding command
+    $ !:2-3
+
+      # Refer to the second to the last argument of the preceding command
+    $ !:2-$
 
     http://www.gnu.org/software/bash/manual/html_node/Word-Designators.html#Word-Designators
 
