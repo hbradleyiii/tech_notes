@@ -1,9 +1,6 @@
 SSH Tips and Tricks
 ###################
 
-SSH
-===============
-
 Rescue Frozen Bash from disconnected SSH session
 ------------------------------------------------
 
