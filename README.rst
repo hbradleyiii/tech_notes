@@ -8,6 +8,11 @@ Tech Notes
 Contents
 ========
 
+Programming
+-----------
+
+- `PHP <https://github.com/hbradleyiii/tech_notes/blob/master/programming/php/php.rst>`_.
+    - `Laravel <https://github.com/hbradleyiii/tech_notes/blob/master/programming/php/larevel.rst>`_.
 
 Terminal
 --------
