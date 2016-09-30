@@ -6,6 +6,7 @@ Basic Syntax
 ============
 
 .. code:: php
+
     <?php
 
         echo 'Outputs to screen.'; // Oneline C++ style comment
