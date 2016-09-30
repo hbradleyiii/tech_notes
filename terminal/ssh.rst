@@ -11,7 +11,7 @@ particular sequence.
 * ``<Enter>``, ``~``, ``?`` - display a list of supported sequences
 * ``<Enter>``, ``~``, ``.`` - terminate connection (and any multiplexed sessions)
 * ``<Enter>``, ``~``, ``B`` - send a BREAK to the remote system
-* ``<Enter>``, ``~``, ``C`` - open a command line
+* ``<Enter>``, ``~``, ``C`` - open a command line (see ``SSH Commands``_)
 * ``<Enter>``, ``~``, ``R`` - Request rekey
 * ``<Enter>``, ``~``, ``^Z`` - suspend ssh (this is ``<Ctrl>``+``Z``)
 * ``<Enter>``, ``~``, ``#`` - list forwarded connections
