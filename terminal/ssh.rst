@@ -1,6 +1,17 @@
 SSH Tips and Tricks
 ###################
 
+SSH
+===============
+
+Rescue Frozen Bash from disconnected SSH session
+------------------------------------------------
+
+When an SSH session is disconnected for whatever reason, sometimes bash will
+freeze. Bash can be unfozen by sending the SSH escape sequence which by default
+is: ``~``.
+
+The escape sequence can be sent by pressing: ``<Enter>``, ``~``, and then ``.``.
 
 ----
 
