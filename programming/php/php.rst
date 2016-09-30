@@ -2,6 +2,26 @@ PHP Notes
 #########
 
 
+Basic Syntax
+============
+
+```php
+<?php
+
+    echo 'Outputs to screen.'; // Oneline C++ style comment
+
+    echo 'Outputs to screen.'; # Oneline shell-style comment
+
+    /*
+     * This is a multiline comment
+     *
+     * It begins with the slash ('/') asterisk ('*') and ends with the asterisk
+     * ('*') slash ('/'). The asterisks beginning the line are just for looks.
+     *
+     */
+
+?>
+```
 
 ----
 
