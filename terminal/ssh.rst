@@ -10,6 +10,25 @@ is: ``~``.
 
 The escape sequence can be sent by pressing: ``<Enter>``, ``~``, and then ``.``.
 
+
+SSH Escape Sequences
+--------------------
+
+An escape sequence can be sent to your **local** SSH client while connected to
+a remote server by pressing ``<Enter>``, ``~``, then an appropriate key for a
+particular sequence.
+
+* ``<Enter>``, ``~``, ``?`` - display a list of supported sequences
+* ``<Enter>``, ``~``, ``.`` - terminate connection (and any multiplexed sessions)
+* ``<Enter>``, ``~``, ``B`` - send a BREAK to the remote system
+* ``<Enter>``, ``~``, ``C`` - open a command line
+* ``<Enter>``, ``~``, ``R`` - Request rekey
+* ``<Enter>``, ``~``, ``^Z`` - suspend ssh
+* ``<Enter>``, ``~``, ``#`` - list forwarded connections
+* ``<Enter>``, ``~``, ``&`` - background ssh (when waiting for connection to terminate)
+* ``<Enter>``, ``~``, ``~`` - send the escape character by typing it twice
+
+
 ----
 
 This work is licensed under a `Creative Commons Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0>`_.
