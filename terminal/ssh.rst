@@ -29,6 +29,18 @@ particular sequence.
 * ``<Enter>``, ``~``, ``~`` - send the escape character by typing it twice
 
 
+SSH Commands
+------------
+
+These commands can be run while already connected via ssh to a remote server
+using the escape sequence: ``<Enter>``, ``~``, and then ``C``.
+
+* ``-L[bind_address:]port:host:hostport`` - Request local forward
+* ``-R[bind_address:]port:host:hostport`` - Request remote forward
+* ``-D[bind_address:]port`` - Request dynamic forward
+* ``-KR[bind_address:]port`` - Cancel remote forward
+
+
 ----
 
 This work is licensed under a `Creative Commons Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0>`_.
