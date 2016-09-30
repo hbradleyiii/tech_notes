@@ -5,7 +5,7 @@ PHP Notes
 Basic Syntax
 ============
 
-.. code-block:: php
+.. code:: php
     <?php
 
         echo 'Outputs to screen.'; // Oneline C++ style comment
