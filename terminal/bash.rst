@@ -81,6 +81,16 @@ Refering to Previous Commands or Arguments
 Power User Tips
 ===============
 
+
+Pipes & Other Methods for Combining Commands
+--------------------------------------------
+
+.. code:: bash
+
+      # Open the all of the files found in a search using 'find'
+    $ vim $(find ...)
+
+
 Resources
 ===============
 
